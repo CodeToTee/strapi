@@ -36,6 +36,8 @@
 </p>
 
 <br>
+** This is a forked repo I'm using to address hot-fix issues for my Strapi usage.  Use at your own risk!  I'll update from
+Strapi as I need.
 
 Strapi Community Edition is a free and open-source headless CMS enabling you to manage any content, anywhere.
 
